@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Metadata here -->
+  </head>
+  <body>
+    <!-- Visual Content here -->
+    <h1>Things I like</h1>
+    <ul>
+      <li>Food...yum!</li>
+      <li>Skiing</li>
+      <li>Live music</li>
+    </ul>
+  </body>
+</html>
